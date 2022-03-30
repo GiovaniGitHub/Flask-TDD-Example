@@ -16,7 +16,7 @@ I felt the need to copy the project and start an extension of the features.
 Pull down the source code from this GitLab repository:
 
 ```sh
-$ git clone git@gitlab.com:johndoe/flask_user_management_example.git
+$ gh repo clone GiovaniGitHub/Flask-TDD-Example
 ```
 
 Create a new virtual environment:
